@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BudgetTrackerOffline" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
